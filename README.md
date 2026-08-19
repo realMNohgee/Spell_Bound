@@ -1,4 +1,5 @@
 # Spell_Bound 🔍
+![CI](https://github.com/realMNohgee/Spell_Bound/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Zero-dependency spell checker and correction suggester.** Pure Python stdlib — scans text files and suggests corrections using the system dictionary.
 
